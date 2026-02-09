@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Grisham Odhiambo</h1>
 <h3 align="center">Software Developer from Kenya</h3>
 
-- 🔭 I’m currently working on **Sign Language Project**
+- 🔭 Completed **Sign Language Project** using Machine Learning models like, Tensor flow,Numpy, Pytorch.
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently learning **Cloud database management**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
